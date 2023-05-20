@@ -12,6 +12,7 @@
 [ext_resource type="Script" path="res://scripts/gun.gd" id="10_8wssb"]
 [ext_resource type="PackedScene" uid="uid://b3fbl6ai8k200" path="res://scenes/box_spawner.tscn" id="10_eao4d"]
 [ext_resource type="PackedScene" uid="uid://t3b2d50e5a4a" path="res://scenes/wand.tscn" id="11_n8f41"]
+[ext_resource type="LabelSettings" uid="uid://bu0rd8q5qya7e" path="res://label_setting.tres" id="12_yh4yd"]
 
 [sub_resource type="BoxShape3D" id="BoxShape3D_wcd6e"]
 size = Vector3(100, 0.1, 5)
